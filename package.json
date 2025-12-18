@@ -8,10 +8,12 @@
     "start": "next start",
     "lint": "next lint || exit 0"
   },
-  "dependencies": {
-    "next": "15.0.0-rc.0",
-    "react": "18.3.1",
-    "react-dom": "18.3.1"
+"dependencies": {
+  "next": "15.0.0-rc.0",
+  "react": "19.0.0-rc-f99473d14a-20241025",
+  "react-dom": "19.0.0-rc-f99473d14a-20241025"
+}
+
   },
   "devDependencies": {
     "typescript": "^5.6.0",
